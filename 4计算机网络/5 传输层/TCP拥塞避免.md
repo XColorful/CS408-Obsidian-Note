@@ -1,0 +1,3 @@
+- cwnd > ssthresh时，使用拥塞避免算法
+- cwnd每次增加1
+- 出现乘法减小时，ssthresh设置为当前cwnd的一半，cwnd设置为1，然后重新慢开始
