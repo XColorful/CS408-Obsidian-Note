@@ -109,6 +109,6 @@
 
 ### 2. 原材料授权与致谢
 
-本笔记底稿包含[ddy-ddy/cs-408](https://github.com/ddy-ddy/cs-408)，原项目采用**[MIT License](https://opensource.org/license/mit)**授权。
+本笔记底稿包含[ddy-ddy/cs-408](https://github.com/ddy-ddy/cs-408)，原项目采用 **[MIT License](https://opensource.org/license/mit)** 授权。
 - 原许可证副本已保留于仓库根目录的[LICENSE_ORIGINAL](LICENSE_ORIGINAL)文件中。
-- 感谢原作者**[ddy-ddy](https://github.com/ddy-ddy)**提供的优质底稿。
+- 感谢原作者 **[ddy-ddy](https://github.com/ddy-ddy)** 提供的优质底稿。
