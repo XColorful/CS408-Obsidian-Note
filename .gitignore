@@ -1,0 +1,10 @@
+# Obsidian工作区
+workspace.json
+
+# Obsidian
+app.json
+appearance.json
+community-plugins.json
+core-plugins.json
+graph.json
+types.json

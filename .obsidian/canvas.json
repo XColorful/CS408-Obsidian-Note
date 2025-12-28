@@ -1,0 +1,7 @@
+{
+  "snapToObjects": true,
+  "snapToGrid": true,
+  "newFileLocation": "current",
+  "defaultWheelBehavior": "pan",
+  "defaultModDragBehavior": "group"
+}
