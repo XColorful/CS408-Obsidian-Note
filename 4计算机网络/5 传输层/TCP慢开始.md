@@ -1,0 +1,2 @@
+- cwnd < ssthresh时，使用慢开始算法
+- 在达到慢开始门限ssthresh前，cwnd按指数规律增长
