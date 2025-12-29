@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"dba3b3832017568d","type":"text","text":"![[6.0应用层概述]]","x":-1760,"y":-600,"width":580,"height":200,"color":"4"},
+		{"id":"98f3a48a451d47e6","type":"text","text":"![[6.1网络应用模型]]","x":-1760,"y":-320,"width":1140,"height":720,"color":"4"},
+		{"id":"e6f693fe0f113e87","type":"text","text":"![[6.2域名系统DNS]]","x":-1760,"y":500,"width":940,"height":1980,"color":"4"},
+		{"id":"6ede125abdde3dc6","type":"text","text":"![[6.3文件传输协议FTP]]","x":-480,"y":-600,"width":700,"height":1380,"color":"4"},
+		{"id":"5cdef8232b01b8f3","type":"text","text":"![[6.4电子邮件系统]]","x":320,"y":-600,"width":1180,"height":1460,"color":"4"},
+		{"id":"04c74102763de480","type":"text","text":"![[6.5.1万维网]]","x":1620,"y":-600,"width":660,"height":400,"color":"4"},
+		{"id":"f77d5b15985b1e75","type":"text","text":"![[6.5.2超文本传输协议HTTP]]","x":1620,"y":-120,"width":800,"height":2760,"color":"4"}
+	],
+	"edges":[
+		{"id":"41a4c64818fe20ff","fromNode":"dba3b3832017568d","fromSide":"bottom","toNode":"98f3a48a451d47e6","toSide":"top"},
+		{"id":"ed943fc265681e81","fromNode":"98f3a48a451d47e6","fromSide":"bottom","toNode":"e6f693fe0f113e87","toSide":"top"},
+		{"id":"2ee82a790692a7a3","fromNode":"e6f693fe0f113e87","fromSide":"right","toNode":"6ede125abdde3dc6","toSide":"left"},
+		{"id":"82abe5ee4ea5f6e5","fromNode":"6ede125abdde3dc6","fromSide":"right","toNode":"5cdef8232b01b8f3","toSide":"left"},
+		{"id":"16355c747a3f9d05","fromNode":"5cdef8232b01b8f3","fromSide":"right","toNode":"04c74102763de480","toSide":"left"},
+		{"id":"bb853e9a3cedacc9","fromNode":"04c74102763de480","fromSide":"bottom","toNode":"f77d5b15985b1e75","toSide":"top"}
+	]
+}
