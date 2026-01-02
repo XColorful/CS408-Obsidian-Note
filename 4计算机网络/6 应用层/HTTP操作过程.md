@@ -1,7 +1,7 @@
 - 浏览器分析链接指向页面的URL（`https://www.ddy-ddy.com/index.html`）
 - 浏览器向DNS请求解析`www.ddy-ddy.com`的IP地址
 - 域名系统DNS解析出IP地址
-- 浏览器与该服务器建立TPC链接【默认端口80】
+- 浏览器与该服务器建立TCP链接【默认端口80】
 - 浏览器发送HTTP请求：GET /index.html
 - 服务器通过HTTP响应把文件index.html发送给浏览器
 - 释放TCP连接
