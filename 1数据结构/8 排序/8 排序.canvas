@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"28a3be3971232d59","type":"text","text":"![[8.0排序总结]]","x":-1357,"y":-1954,"width":1757,"height":1834,"color":"4"},
+		{"id":"bad6c3837c4d1c63","type":"text","text":"![[8.2插入排序]]","x":-1357,"y":0,"width":1937,"height":1440,"color":"4"},
+		{"id":"8d8bf26010439886","type":"text","text":"![[8.3交换排序]]","x":-1357,"y":1540,"width":1897,"height":1940,"color":"4"},
+		{"id":"7f4b8ff991c2342c","type":"text","text":"![[8.4选择排序]]","x":-1357,"y":3600,"width":1997,"height":1400,"color":"4"},
+		{"id":"7b28537ad17c9dbb","type":"text","text":"![[8.5归并排序、基数排序和计数排序]]","x":-1357,"y":5120,"width":1897,"height":960,"color":"4"},
+		{"id":"575cdbec192e61d0","type":"text","text":"![[8.7外部排序]]\n","x":-1357,"y":6140,"width":1357,"height":740,"color":"4"}
+	],
+	"edges":[
+		{"id":"41c6e91fb7f3acb1","fromNode":"28a3be3971232d59","fromSide":"bottom","toNode":"bad6c3837c4d1c63","toSide":"top"},
+		{"id":"cf009836ef3dde4d","fromNode":"bad6c3837c4d1c63","fromSide":"bottom","toNode":"8d8bf26010439886","toSide":"top"},
+		{"id":"9879631d4035d399","fromNode":"8d8bf26010439886","fromSide":"bottom","toNode":"7f4b8ff991c2342c","toSide":"top"},
+		{"id":"23ec4cab184617b5","fromNode":"7f4b8ff991c2342c","fromSide":"bottom","toNode":"7b28537ad17c9dbb","toSide":"top"},
+		{"id":"e43bc4edb6b84927","fromNode":"7b28537ad17c9dbb","fromSide":"bottom","toNode":"575cdbec192e61d0","toSide":"top"}
+	]
+}

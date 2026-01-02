@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"8d4df0e29725bd87","type":"text","text":"![[3.1栈的基本概念]]","x":-2584,"y":-1043,"width":944,"height":603,"color":"4"},
+		{"id":"b55598ae0aeb1a92","type":"text","text":"![[3.1.2栈的顺序存储结构]]","x":-2584,"y":-360,"width":1344,"height":1680,"color":"4"},
+		{"id":"2bb98017daa71de8","type":"text","text":"![[3.1.3栈的链式存储结构]]","x":-2584,"y":1400,"width":704,"height":360,"color":"4"},
+		{"id":"3dd096b9e6bb4c9f","type":"text","text":"![[3.3栈的应用]]","x":-2584,"y":1860,"width":1244,"height":1400,"color":"4"},
+		{"id":"5706b79806f806bf","type":"text","text":"![[3.2.1队列的基本概念]]","x":-1140,"y":-1043,"width":680,"height":489,"color":"4"},
+		{"id":"11a9c0860abacc13","type":"text","text":"![[3.2.2队列的顺序存储结构]]","x":-1140,"y":-500,"width":1540,"height":2100,"color":"4"},
+		{"id":"186f511673b25790","type":"text","text":"![[3.2.3队列的链式存储结构]]","x":-1140,"y":1680,"width":1640,"height":1140,"color":"4"},
+		{"id":"785ba780dd8a31ab","type":"text","text":"![[3.2.4双端队列]]","x":-1140,"y":2900,"width":880,"height":340,"color":"4"},
+		{"id":"b9ea0febe7c06b79","type":"text","text":"![[3.3队列的应用]]","x":-1140,"y":3320,"width":960,"height":403,"color":"4"},
+		{"id":"3e53e92e3607b9de","type":"text","text":"![[3.4数组和特殊矩阵]]","x":560,"y":-1043,"width":1020,"height":623,"color":"4"}
+	],
+	"edges":[
+		{"id":"e50e6cab1daa3e60","fromNode":"8d4df0e29725bd87","fromSide":"bottom","toNode":"b55598ae0aeb1a92","toSide":"top"},
+		{"id":"674ee8354d8642c0","fromNode":"b55598ae0aeb1a92","fromSide":"bottom","toNode":"2bb98017daa71de8","toSide":"top"},
+		{"id":"8b7a33b2618c0113","fromNode":"2bb98017daa71de8","fromSide":"right","toNode":"5706b79806f806bf","toSide":"left"},
+		{"id":"c6143dbbe0f4b3f5","fromNode":"3dd096b9e6bb4c9f","fromSide":"right","toNode":"b9ea0febe7c06b79","toSide":"left"},
+		{"id":"df2aa901a72107c3","fromNode":"2bb98017daa71de8","fromSide":"bottom","toNode":"3dd096b9e6bb4c9f","toSide":"top"},
+		{"id":"7c19d57b6fed112b","fromNode":"5706b79806f806bf","fromSide":"bottom","toNode":"11a9c0860abacc13","toSide":"top"},
+		{"id":"2060f606bd63c164","fromNode":"11a9c0860abacc13","fromSide":"bottom","toNode":"186f511673b25790","toSide":"top"},
+		{"id":"dfdb717ffb2ad940","fromNode":"186f511673b25790","fromSide":"bottom","toNode":"785ba780dd8a31ab","toSide":"top"},
+		{"id":"7fa9e9731ba49d1c","fromNode":"785ba780dd8a31ab","fromSide":"left","toNode":"3dd096b9e6bb4c9f","toSide":"right"},
+		{"id":"92710fc9b05c793e","fromNode":"785ba780dd8a31ab","fromSide":"bottom","toNode":"b9ea0febe7c06b79","toSide":"top"},
+		{"id":"3077062800074465","fromNode":"b9ea0febe7c06b79","fromSide":"right","toNode":"3e53e92e3607b9de","toSide":"left"}
+	]
+}
