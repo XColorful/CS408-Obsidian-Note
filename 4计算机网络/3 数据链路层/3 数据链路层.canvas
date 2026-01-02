@@ -8,13 +8,13 @@
 		{"id":"f2768b66f53eef20","type":"text","text":"![[3.7.2点对点协议PPP]]","x":-1240,"y":3200,"width":840,"height":820,"color":"4"},
 		{"id":"82f7642521244660","type":"text","text":"![[3.5媒体介入控制的基本概念]]","x":240,"y":-680,"width":1140,"height":580,"color":"4"},
 		{"id":"1459f1195ec97117","type":"text","text":"![[3.5.1静态划分信道]]","x":240,"y":0,"width":700,"height":380,"color":"4"},
-		{"id":"533be9784ef2161c","type":"text","text":"![[3.5.1静态划分信道分类]]","x":240,"y":480,"width":1320,"height":2960,"color":"4"},
-		{"id":"456e481a5b93f4e9","type":"text","text":"![[3.5.2随机接入协议分类]]","x":240,"y":3540,"width":940,"height":3560,"color":"4"},
+		{"id":"533be9784ef2161c","type":"text","text":"![[3.5.1静态划分信道分类]]","x":240,"y":480,"width":1320,"height":2760,"color":"4"},
 		{"id":"46fb74129da95be4","type":"text","text":"![[3.6.2MAC地址]]","x":1920,"y":-680,"width":1762,"height":740,"color":"4"},
 		{"id":"88e55635ac9fbce8","type":"text","text":"![[3.6.2ARP（address resolution protocol）协议]]","x":1920,"y":190,"width":1222,"height":530,"color":"4"},
-		{"id":"881a8d088e7f6f94","type":"text","text":"![[3.8.2交换机]]","x":1920,"y":840,"width":1502,"height":2360,"color":"4"},
-		{"id":"371144c4c12d63f7","type":"text","text":"![[3.6.1局域网和广域网]]","x":1920,"y":3275,"width":1182,"height":330,"color":"4"},
-		{"id":"f6ece03adafcb243","type":"text","text":"![[3.6.4虚拟局域网VLAN]]","x":1920,"y":3680,"width":1102,"height":1280,"color":"4"}
+		{"id":"881a8d088e7f6f94","type":"text","text":"![[3.8.2交换机]]","x":1920,"y":840,"width":1502,"height":1840,"color":"4"},
+		{"id":"456e481a5b93f4e9","type":"text","text":"![[3.5.2随机接入协议分类]]","x":240,"y":3360,"width":940,"height":3560,"color":"4"},
+		{"id":"371144c4c12d63f7","type":"text","text":"![[3.6.1局域网和广域网]]","x":1920,"y":2760,"width":1182,"height":330,"color":"4"},
+		{"id":"f6ece03adafcb243","type":"text","text":"![[3.6.4虚拟局域网VLAN]]","x":1920,"y":3165,"width":960,"height":1080,"color":"4"}
 	],
 	"edges":[
 		{"id":"9c0a061a9e9f20f5","fromNode":"0879a57145c6a433","fromSide":"bottom","toNode":"17cd66f11ae03d77","toSide":"top"},
@@ -26,13 +26,13 @@
 		{"id":"073e86730cffd567","fromNode":"82f7642521244660","fromSide":"bottom","toNode":"1459f1195ec97117","toSide":"top"},
 		{"id":"5fc765fed443e336","fromNode":"1459f1195ec97117","fromSide":"bottom","toNode":"533be9784ef2161c","toSide":"top"},
 		{"id":"66829f6aa2c35b3f","fromNode":"533be9784ef2161c","fromSide":"bottom","toNode":"456e481a5b93f4e9","toSide":"top"},
-		{"id":"714bdefe760380d1","fromNode":"533be9784ef2161c","fromSide":"right","toNode":"46fb74129da95be4","toSide":"left"},
 		{"id":"b6f53ead6c719bd9","fromNode":"46fb74129da95be4","fromSide":"bottom","toNode":"88e55635ac9fbce8","toSide":"top"},
 		{"id":"f8ab7078c09aca5f","fromNode":"88e55635ac9fbce8","fromSide":"bottom","toNode":"881a8d088e7f6f94","toSide":"top"},
 		{"id":"0462f04fccc1adba","fromNode":"881a8d088e7f6f94","fromSide":"bottom","toNode":"371144c4c12d63f7","toSide":"top"},
 		{"id":"7575d283260e0610","fromNode":"371144c4c12d63f7","fromSide":"bottom","toNode":"f6ece03adafcb243","toSide":"top"},
 		{"id":"879048302f1cad5e","fromNode":"f6ece03adafcb243","fromSide":"left","toNode":"f2768b66f53eef20","toSide":"right"},
-		{"id":"a649f76f09a87ef7","fromNode":"f2768b66f53eef20","fromSide":"right","toNode":"881a8d088e7f6f94","toSide":"left"},
-		{"id":"adfb1b87cf61ce92","fromNode":"88e55635ac9fbce8","fromSide":"left","toNode":"371144c4c12d63f7","toSide":"left"}
+		{"id":"06193c69ffdc0265","fromNode":"456e481a5b93f4e9","fromSide":"right","toNode":"46fb74129da95be4","toSide":"left"},
+		{"id":"974e7d2287b90ad2","fromNode":"88e55635ac9fbce8","fromSide":"left","toNode":"f2768b66f53eef20","toSide":"right"},
+		{"id":"873d5c784cd6c6d7","fromNode":"371144c4c12d63f7","fromSide":"left","toNode":"88e55635ac9fbce8","toSide":"left"}
 	]
 }
