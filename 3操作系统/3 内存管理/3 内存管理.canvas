@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"4617ad705ac14a20","type":"text","text":"![[3.1内存管理概念常考点]]","x":-2421,"y":-1086,"width":1301,"height":326,"color":"4"},
+		{"id":"4d4306689d3057bd","type":"text","text":"![[3.1.1内存管理概念]]","x":-2421,"y":-680,"width":1201,"height":3380,"color":"4"},
+		{"id":"55a612c2d5739f91","type":"text","text":"![[3.1内存管理方法]]","x":-960,"y":-1086,"width":1380,"height":5826,"color":"4"},
+		{"id":"a0b21dd890649fde","type":"text","text":"![[3.2虚拟内存管理常考点]]","x":580,"y":-1086,"width":1120,"height":406,"color":"4"},
+		{"id":"278342e492f13a91","type":"text","text":"![[3.2.1虚拟内存的基本概念]]","x":580,"y":-600,"width":1520,"height":660,"color":"4"},
+		{"id":"0140f2b851097f0f","type":"text","text":"![[3.2.2请求分页管理方式]]","x":580,"y":140,"width":1420,"height":1320,"color":"4"},
+		{"id":"9fb5caea7eedcdd3","type":"text","text":"![[3.2.3页框分配]]","x":580,"y":1560,"width":1060,"height":880,"color":"4"},
+		{"id":"e28ea22b040ffce2","type":"text","text":"![[3.2.4页面置换算法]]","x":580,"y":2540,"width":1440,"height":400,"color":"4"},
+		{"id":"bbe277db7609f5d9","type":"text","text":"![[3.2.5抖动和工作集]]","x":2200,"y":-1086,"width":1160,"height":706,"color":"4"},
+		{"id":"deb1dd6434f43467","type":"text","text":"![[3.2.7内存映射文件]]","x":2200,"y":-270,"width":860,"height":170,"color":"4"},
+		{"id":"356b53a439d89823","type":"text","text":"![[3.2.8虚拟存储器性能影响因素]]","x":2200,"y":-40,"width":700,"height":340,"color":"4"},
+		{"id":"c5acd02a6dfc1296","type":"text","text":"![[3.2.11内存管理常见计算题]]","x":2200,"y":380,"width":1640,"height":640,"color":"4"}
+	],
+	"edges":[
+		{"id":"5eccf91d2f61397a","fromNode":"4617ad705ac14a20","fromSide":"bottom","toNode":"4d4306689d3057bd","toSide":"top"},
+		{"id":"1ad2873e9321c9ea","fromNode":"4d4306689d3057bd","fromSide":"right","toNode":"55a612c2d5739f91","toSide":"left"},
+		{"id":"f2847ab498388821","fromNode":"a0b21dd890649fde","fromSide":"bottom","toNode":"278342e492f13a91","toSide":"top"},
+		{"id":"76de039966536efe","fromNode":"55a612c2d5739f91","fromSide":"right","toNode":"a0b21dd890649fde","toSide":"left"},
+		{"id":"d85cda878b7f74ca","fromNode":"278342e492f13a91","fromSide":"bottom","toNode":"0140f2b851097f0f","toSide":"top"},
+		{"id":"714ef56fc0be4275","fromNode":"0140f2b851097f0f","fromSide":"bottom","toNode":"9fb5caea7eedcdd3","toSide":"top"},
+		{"id":"21a77fdc847a036a","fromNode":"9fb5caea7eedcdd3","fromSide":"bottom","toNode":"e28ea22b040ffce2","toSide":"top"},
+		{"id":"daa9ca6002be7f96","fromNode":"e28ea22b040ffce2","fromSide":"right","toNode":"bbe277db7609f5d9","toSide":"left"},
+		{"id":"0d0903d0574bc6f2","fromNode":"bbe277db7609f5d9","fromSide":"bottom","toNode":"deb1dd6434f43467","toSide":"top"},
+		{"id":"d574595dcf5d965b","fromNode":"deb1dd6434f43467","fromSide":"bottom","toNode":"356b53a439d89823","toSide":"top"},
+		{"id":"dbcabb1e1ef6461e","fromNode":"356b53a439d89823","fromSide":"bottom","toNode":"c5acd02a6dfc1296","toSide":"top"}
+	]
+}
