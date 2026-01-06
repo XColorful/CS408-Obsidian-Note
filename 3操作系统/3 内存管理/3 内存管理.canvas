@@ -11,7 +11,7 @@
 		{"id":"bbe277db7609f5d9","type":"text","text":"![[3.2.5抖动和工作集]]","x":2200,"y":-1086,"width":1160,"height":706,"color":"4"},
 		{"id":"deb1dd6434f43467","type":"text","text":"![[3.2.7内存映射文件]]","x":2200,"y":-270,"width":860,"height":170,"color":"4"},
 		{"id":"356b53a439d89823","type":"text","text":"![[3.2.8虚拟存储器性能影响因素]]","x":2200,"y":-40,"width":700,"height":340,"color":"4"},
-		{"id":"c5acd02a6dfc1296","type":"text","text":"![[3.2.11内存管理常见计算题]]","x":2200,"y":380,"width":1640,"height":640,"color":"4"}
+		{"id":"c5acd02a6dfc1296","type":"text","text":"![[3.3内存管理常见计算题]]","x":2200,"y":380,"width":1640,"height":640,"color":"4"}
 	],
 	"edges":[
 		{"id":"5eccf91d2f61397a","fromNode":"4617ad705ac14a20","fromSide":"bottom","toNode":"4d4306689d3057bd","toSide":"top"},
