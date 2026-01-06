@@ -1,4 +1,4 @@
-> 💡 本笔记底稿包含[ddy-ddy/cs-408](https://github.com/ddy-ddy/cs-408)([MIT License](https://opensource.org/license/mit)) 的OneNote内容
+> 💡 本笔记底稿包含[ddy-ddy/cs-408](https://github.com/ddy-ddy/cs-408)（[MIT License](https://opensource.org/license/mit)）的OneNote内容
 
 计算机科学408的[Obsidian](https://obsidian.md/)笔记，**牺牲**OneNote嵌套表格+随处书写，**换取**Obsidian双链无向图+Github版本化工作流
 
