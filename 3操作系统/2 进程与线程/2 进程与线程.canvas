@@ -1,11 +1,7 @@
 {
 	"nodes":[
 		{"id":"c2d967c8fa9d1c4d","type":"text","text":"![[2.1.1进程常考的知识点]]","x":-2584,"y":-1355,"width":1144,"height":755,"color":"4"},
-		{"id":"58d4d53b448e2050","type":"text","text":"![[2.1.1进程的概念和特征]]","x":-2584,"y":-520,"width":1044,"height":320,"color":"4"},
-		{"id":"59f0b3dfc701ec18","type":"text","text":"![[2.1.3进程的状态与转换]]","x":-2584,"y":-112,"width":1124,"height":812,"color":"4"},
-		{"id":"03e343ba7dd29b7a","type":"text","text":"![[2.1.4进程控制]]","x":-2584,"y":793,"width":1204,"height":1767,"color":"4"},
-		{"id":"c8154f48a81f6413","type":"text","text":"![[2.1.5进程的通信]]","x":-2584,"y":2660,"width":844,"height":480,"color":"4"},
-		{"id":"9f879d74bdddfee7","type":"text","text":"![[2.2.4进程切换]]","x":-2584,"y":3220,"width":1104,"height":720,"color":"4"},
+		{"id":"58d4d53b448e2050","type":"text","text":"![[2.1.1进程的概念和特征]]","x":-2584,"y":-520,"width":1124,"height":560,"color":"4"},
 		{"id":"a815385f1be8bc17","type":"text","text":"![[2.1.6线程常考的知识点]]","x":-1160,"y":-1355,"width":820,"height":335,"color":"4"},
 		{"id":"a5f93ea45dc3b739","type":"text","text":"![[2.1.6线程和多线程模型]]","x":-1160,"y":-940,"width":1200,"height":2140,"color":"4"},
 		{"id":"6a48eafa179d7779","type":"text","text":"![[2.2调度常考的知识点]]","x":140,"y":-1355,"width":960,"height":195,"color":"4"},
@@ -20,7 +16,12 @@
 		{"id":"40a198a5184f89fc","type":"text","text":"![[2.4死锁常考点]]","x":3840,"y":-1355,"width":940,"height":375,"color":"4"},
 		{"id":"d5ffaf892cc6693e","type":"text","text":"![[2.4死锁]]","x":3840,"y":-920,"width":1420,"height":2240,"color":"4"},
 		{"id":"bfbb9334bc2587ea","type":"text","text":"![[安全性算法和银行家算法举例]]","x":3840,"y":1400,"width":2040,"height":840},
-		{"id":"72f31a6bc772ec72","type":"text","text":"![[2.5进程与线程难点和常考点]]","x":5400,"y":-1355,"width":880,"height":815,"color":"4"}
+		{"id":"72f31a6bc772ec72","type":"text","text":"![[2.5进程与线程难点和常考点]]","x":5400,"y":-1355,"width":880,"height":815,"color":"4"},
+		{"id":"59f0b3dfc701ec18","type":"text","text":"![[2.1.3进程的状态与转换]]","x":-2584,"y":130,"width":1124,"height":812,"color":"4"},
+		{"id":"03e343ba7dd29b7a","type":"text","text":"![[2.1.4进程控制]]","x":-2584,"y":1040,"width":1204,"height":1767,"color":"4"},
+		{"id":"c8154f48a81f6413","type":"text","text":"![[2.1.5进程的通信]]","x":-2584,"y":2880,"width":844,"height":480,"color":"4"},
+		{"id":"9f879d74bdddfee7","type":"text","text":"![[2.2.4进程切换]]","x":-2584,"y":3440,"width":1104,"height":720,"color":"4"},
+		{"id":"489394383c230beb","type":"text","text":"![[计算单道程序和多道程序的CPU利用率]]","x":-1160,"y":1380,"width":1060,"height":460}
 	],
 	"edges":[
 		{"id":"2256e95defac0b39","fromNode":"c2d967c8fa9d1c4d","fromSide":"bottom","toNode":"58d4d53b448e2050","toSide":"top"},
@@ -44,6 +45,7 @@
 		{"id":"db0f239c1cfa547f","fromNode":"351ca252228b09ea","fromSide":"right","toNode":"40a198a5184f89fc","toSide":"left"},
 		{"id":"1b56de96a0e6977b","fromNode":"40a198a5184f89fc","fromSide":"bottom","toNode":"d5ffaf892cc6693e","toSide":"top"},
 		{"id":"e21ffd0c72b703ce","fromNode":"d5ffaf892cc6693e","fromSide":"right","toNode":"72f31a6bc772ec72","toSide":"left"},
-		{"id":"1bfe208378ff1c59","fromNode":"d5ffaf892cc6693e","fromSide":"bottom","toNode":"bfbb9334bc2587ea","toSide":"top"}
+		{"id":"1bfe208378ff1c59","fromNode":"d5ffaf892cc6693e","fromSide":"bottom","toNode":"bfbb9334bc2587ea","toSide":"top"},
+		{"id":"7081dcba5664640b","fromNode":"2a4c63b35e70b8d6","fromSide":"left","toNode":"489394383c230beb","toSide":"right"}
 	]
 }
