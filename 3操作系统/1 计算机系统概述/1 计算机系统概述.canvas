@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"c1ffbf2e2e38c911","type":"text","text":"![[1.0计算机系统概述常考点]]","x":-2660,"y":-1620,"width":1480,"height":4000,"color":"4"},
+		{"id":"013f764e5bb4e9e5","type":"text","text":"![[1.1操作系统的基本概念]]","x":-1040,"y":-1620,"width":1060,"height":1840,"color":"4"},
+		{"id":"a84bda318f273633","type":"text","text":"![[1.4操作系统结构]]","x":-1040,"y":320,"width":1060,"height":680,"color":"4"},
+		{"id":"c2a2d97943bbb5f4","type":"text","text":"![[1.5操作系统引导]]","x":-1040,"y":1080,"width":900,"height":980,"color":"4"},
+		{"id":"cccfffb444373e6e","type":"text","text":"![[1.6虚拟机]]","x":-1040,"y":2140,"width":920,"height":500,"color":"4"},
+		{"id":"97e8381f8663464e","type":"text","text":"![[1.2操作系统发展历程]]","x":240,"y":-1620,"width":1696,"height":900,"color":"4"},
+		{"id":"a9a5f834acdd3e9d","type":"text","text":"![[1.3操作系统的运行环境]]","x":240,"y":-640,"width":1736,"height":3160,"color":"4"}
+	],
+	"edges":[
+		{"id":"c4526113d8a24ce5","fromNode":"97e8381f8663464e","fromSide":"bottom","toNode":"a9a5f834acdd3e9d","toSide":"top"},
+		{"id":"40b69bcc13539419","fromNode":"cccfffb444373e6e","fromSide":"right","toNode":"97e8381f8663464e","toSide":"left"},
+		{"id":"3ecaec69e6c74f42","fromNode":"c2a2d97943bbb5f4","fromSide":"bottom","toNode":"cccfffb444373e6e","toSide":"top"},
+		{"id":"4d8b371f38c6fd21","fromNode":"a84bda318f273633","fromSide":"bottom","toNode":"c2a2d97943bbb5f4","toSide":"top"},
+		{"id":"00c321f51cab7b4c","fromNode":"a9a5f834acdd3e9d","fromSide":"left","toNode":"a84bda318f273633","toSide":"right"},
+		{"id":"b5283763e6911de4","fromNode":"013f764e5bb4e9e5","fromSide":"bottom","toNode":"a84bda318f273633","toSide":"top"},
+		{"id":"aea0f79f9fd1fda5","fromNode":"013f764e5bb4e9e5","fromSide":"right","toNode":"97e8381f8663464e","toSide":"left"},
+		{"id":"6e15900316d80b69","fromNode":"c1ffbf2e2e38c911","fromSide":"right","toNode":"013f764e5bb4e9e5","toSide":"left"}
+	]
+}

@@ -1,0 +1,4 @@
+| | |
+|---|---|
+|<font color="#c0504d">P操作</font>|- 将<font color="#9bbb59">信号量值S减 1</font>，表示「<font color="#9bbb59">申请占用一个资源</font>」<br>- 如果 <font color="#9bbb59">s < 0</font>，表示已经没有可用资源，则<font color="#9bbb59">执行 P 操作的进程被阻塞</font><br>- 如果 <font color="#9bbb59">s ≥ 0</font>，表示现有的资源足够你使用，<font color="#9bbb59">则执行 P 操作的进程继续执行</font><br>- 举例：当信号量的值为2时，表示有 2 个资源可以使用；当信号量的值为-2的时候，表示有两个进程正在等待使用这个资源|
+|<font color="#c0504d">V操作</font>|- 将<font color="#9bbb59">信号量值S加 1</font>，表示「<font color="#9bbb59">释放一个资源</font>」，即使用完资源后归还资源<br>- 如果 <font color="#9bbb59">s ≤ 0</font>，表示有某些进程正在等待该资源<br>- 由于我们已经释放出一个资源了，因此需要唤醒阻塞进程|
