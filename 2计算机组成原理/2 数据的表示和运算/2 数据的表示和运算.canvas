@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"7c7486d59f8a1861","type":"text","text":"![[2.1数制与编码]]","x":-3926,"y":-1226,"width":1486,"height":3726,"color":"4"},
+		{"id":"3dd47d2fee7c8c52","type":"text","text":"![[2.2.1基本运算部件]]","x":-2040,"y":-1226,"width":1520,"height":1706,"color":"4"},
+		{"id":"80338d46adade83b","type":"text","text":"![[2.1.4C语言中的整数类型与类型转换]]","x":-2040,"y":560,"width":1480,"height":1440,"color":"4"},
+		{"id":"ed3f8ed479df5594","type":"text","text":"![[2.3.4数据的大小端和对齐存储]]","x":-360,"y":-1226,"width":1440,"height":1046,"color":"4"},
+		{"id":"49496b8265448558","type":"text","text":"![[2.2定点数的运算]]","x":1280,"y":-1226,"width":2040,"height":4426,"color":"4"},
+		{"id":"c7e797e810f1e63d","type":"text","text":"![[2.3浮点数]]","x":3480,"y":-1226,"width":1240,"height":4486,"color":"4"}
+	],
+	"edges":[
+		{"id":"24649919c57eb1ad","fromNode":"7c7486d59f8a1861","fromSide":"right","toNode":"3dd47d2fee7c8c52","toSide":"left"},
+		{"id":"d0c47a1ea2ae7eb1","fromNode":"3dd47d2fee7c8c52","fromSide":"bottom","toNode":"80338d46adade83b","toSide":"top"},
+		{"id":"627ef77c905d9ec6","fromNode":"80338d46adade83b","fromSide":"right","toNode":"ed3f8ed479df5594","toSide":"left"},
+		{"id":"5454327403d29ceb","fromNode":"7c7486d59f8a1861","fromSide":"right","toNode":"80338d46adade83b","toSide":"left"},
+		{"id":"a5eb0ec952152224","fromNode":"80338d46adade83b","fromSide":"left","toNode":"3dd47d2fee7c8c52","toSide":"left"},
+		{"id":"a67499b020f3d872","fromNode":"ed3f8ed479df5594","fromSide":"right","toNode":"49496b8265448558","toSide":"left"},
+		{"id":"8daae66313136007","fromNode":"3dd47d2fee7c8c52","fromSide":"right","toNode":"49496b8265448558","toSide":"left"},
+		{"id":"93e54a254c698981","fromNode":"49496b8265448558","fromSide":"right","toNode":"c7e797e810f1e63d","toSide":"left"},
+		{"id":"3b2b046b1996508b","fromNode":"c7e797e810f1e63d","fromSide":"left","toNode":"ed3f8ed479df5594","toSide":"right"}
+	]
+}
