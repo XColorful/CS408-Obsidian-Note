@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"9050c83e592c50a9","type":"text","text":"![[3.1.1存储器的分类]]","x":-3048,"y":-1098,"width":1288,"height":1498,"color":"4"},
+		{"id":"0d42f42f1ef20bf5","type":"text","text":"![[3.1.2存储器的性能指标]]","x":-3048,"y":480,"width":1288,"height":240,"color":"4"},
+		{"id":"de018161548d7e77","type":"text","text":"![[3.1.3多级层次的存储系统]]","x":-3048,"y":800,"width":1628,"height":420,"color":"4"},
+		{"id":"080738511494976d","type":"text","text":"![[3.2.1SRAM芯片和DRAM芯片]]","x":-1280,"y":-1098,"width":2060,"height":3298,"color":"4"},
+		{"id":"6befc95e036adc8a","type":"text","text":"![[3.2.2只读存储器ROM]]","x":-1280,"y":2300,"width":1000,"height":640,"color":"4"},
+		{"id":"fad3a8e5c85fa76f","type":"text","text":"![[3.2.4多模块存储器]]","x":-1280,"y":3040,"width":2080,"height":1440,"color":"4"},
+		{"id":"304556a854fe2fc0","type":"text","text":"![[3.3主存储器与CPU的连接]]","x":920,"y":-1098,"width":1240,"height":1598,"color":"4"},
+		{"id":"6682abb0e74e8fef","type":"text","text":"![[3.4外部存储器]]","x":920,"y":620,"width":1120,"height":700,"color":"4"},
+		{"id":"d93999ffae5d64bf","type":"text","text":"![[3.5高速缓冲存储器]]","x":2320,"y":-1098,"width":1800,"height":6898,"color":"4"}
+	],
+	"edges":[
+		{"id":"e6ee7931da91b103","fromNode":"9050c83e592c50a9","fromSide":"bottom","toNode":"0d42f42f1ef20bf5","toSide":"top"},
+		{"id":"9f323d87928d3aef","fromNode":"0d42f42f1ef20bf5","fromSide":"bottom","toNode":"de018161548d7e77","toSide":"top"},
+		{"id":"09f6061bbb9eb8b2","fromNode":"de018161548d7e77","fromSide":"right","toNode":"080738511494976d","toSide":"left"},
+		{"id":"e95f3445e2a6f031","fromNode":"080738511494976d","fromSide":"bottom","toNode":"6befc95e036adc8a","toSide":"top"},
+		{"id":"28141f3a901552b8","fromNode":"6befc95e036adc8a","fromSide":"bottom","toNode":"fad3a8e5c85fa76f","toSide":"top"},
+		{"id":"5a107ba726b0fd6f","fromNode":"fad3a8e5c85fa76f","fromSide":"right","toNode":"304556a854fe2fc0","toSide":"left"},
+		{"id":"2961e61060730727","fromNode":"304556a854fe2fc0","fromSide":"bottom","toNode":"6682abb0e74e8fef","toSide":"top"},
+		{"id":"54d04e4d307e703c","fromNode":"6682abb0e74e8fef","fromSide":"right","toNode":"d93999ffae5d64bf","toSide":"left"}
+	]
+}
