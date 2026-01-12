@@ -3,7 +3,7 @@
 		{"id":"f0a7702f7d811c2e","type":"text","text":"![[4.1网络层概述]]","x":-3245,"y":-1109,"width":965,"height":929,"color":"4"},
 		{"id":"aa29591b1c0dc7f5","type":"text","text":"![[4.1.4SDN的基本概念]]","x":-3245,"y":-60,"width":785,"height":180,"color":"4"},
 		{"id":"b2637255442b2183","type":"text","text":"![[4.7网络层设备]]","x":-3245,"y":220,"width":1085,"height":1500,"color":"4"},
-		{"id":"aa4451a181b78e43","type":"text","text":"![[4.2IP地址的定义]]","x":-2040,"y":-1109,"width":1100,"height":529,"color":"4"},
+		{"id":"aa4451a181b78e43","type":"text","text":"![[4.2IP地址的定义]]","x":-2040,"y":-1109,"width":1100,"height":489,"color":"4"},
 		{"id":"02a61dcaf399cb85","type":"text","text":"![[4.2.2分类编制的IPv4地址]]","x":-2040,"y":-500,"width":1320,"height":1080,"color":"4"},
 		{"id":"fad9803b257a96df","type":"text","text":"![[4.2.4IP数据报的发送和转发过程]]","x":-560,"y":-1120,"width":880,"height":740,"color":"4"},
 		{"id":"9b0ea0fa24f134c9","type":"text","text":"![[4.2.5静态路由配置及其可能产生的路由环路问题]]","x":-560,"y":-300,"width":960,"height":2000,"color":"4"},

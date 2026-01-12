@@ -2,14 +2,14 @@
 	"nodes":[
 		{"id":"aeec238879aea9bb","type":"text","text":"![[2.0物理层基本概念]]","x":-5600,"y":-1760,"width":1380,"height":320,"color":"4"},
 		{"id":"06ca8fcbae4b879c","type":"text","text":"![[2.1.1物理层基本概念]]","x":-5600,"y":-1360,"width":820,"height":860,"color":"4"},
-		{"id":"46a8817a36235e66","type":"text","text":"![[2.1.2奈氏准则和香农定理]]","x":-5600,"y":-400,"width":800,"height":1400,"color":"4"},
 		{"id":"5e9ab4f54f82ad9a","type":"text","text":"![[2.1.3编码与调制]]","x":-4160,"y":-1760,"width":640,"height":1160,"color":"4"},
-		{"id":"f100c2e19dc8ff6c","type":"text","text":"![[2.1.3四种编码方式]]","x":-4160,"y":-500,"width":840,"height":1420,"color":"4"},
 		{"id":"7a746c1f9487b695","type":"text","text":"![[2.1.3三种交换方式]]","x":-3160,"y":-1760,"width":1160,"height":2420,"color":"4"},
 		{"id":"150ea38c9445a098","type":"text","text":"![[2.2物理层传输介质]]","x":-1880,"y":-1760,"width":600,"height":260,"color":"4"},
 		{"id":"3ff552ee6929ee86","type":"text","text":"![[2.2.1导向性传输介质]]","x":-1880,"y":-1400,"width":1340,"height":920,"color":"4"},
 		{"id":"564f4413371d04e9","type":"text","text":"![[2.3物理层设备]]","x":-1880,"y":-360,"width":1080,"height":800,"color":"4"},
-		{"id":"d7f15e7acb51014a","type":"text","text":"![[2.1.2奈氏准则和香农定理例题]]","x":-5600,"y":1080,"width":766,"height":1053}
+		{"id":"d7f15e7acb51014a","type":"text","text":"![[2.1.2奈氏准则和香农定理例题]]","x":-5600,"y":1080,"width":766,"height":1053},
+		{"id":"f100c2e19dc8ff6c","type":"text","text":"![[2.1.3四种编码方式]]","x":-4060,"y":-720,"width":840,"height":1420,"color":"4"},
+		{"id":"46a8817a36235e66","type":"text","text":"![[2.1.2奈氏准则和香农定理]]","x":-5600,"y":-420,"width":800,"height":1400,"color":"4"}
 	],
 	"edges":[
 		{"id":"819d2e5cfaae07e6","fromNode":"aeec238879aea9bb","fromSide":"bottom","toNode":"06ca8fcbae4b879c","toSide":"top"},
