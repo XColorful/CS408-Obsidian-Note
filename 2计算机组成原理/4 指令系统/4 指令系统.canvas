@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"050a2f213509629e","type":"text","text":"![[4.1指令的概念]]","x":-2258,"y":-2125,"width":758,"height":185,"color":"4"},
-		{"id":"68d2eb0b7ef8e217","type":"text","text":"![[4.1.2指令的基本格式]]","x":-2258,"y":-1860,"width":1378,"height":1940,"color":"4"},
-		{"id":"25f223e7b3432b47","type":"text","text":"![[4.2.1指令寻址和数据寻址]]","x":-560,"y":-2125,"width":1140,"height":1125,"color":"4"},
-		{"id":"407bdbe054cc0964","type":"text","text":"![[4.1.4扩展操作码指令格式]]","x":-2258,"y":160,"width":1498,"height":720,"color":"4"},
-		{"id":"6a9d8a1a5707a085","type":"text","text":"![[4.1.5指令的操作类型]]","x":-2258,"y":1000,"width":1138,"height":600,"color":"4"},
-		{"id":"a5c034af2f5ed308","type":"text","text":"![[4.4.3CISC和RISC的比较]]","x":-2258,"y":1700,"width":1338,"height":840,"color":"4"},
-		{"id":"40c78f08d2474bec","type":"text","text":"![[4.2.2常见的数据寻址方式]]","x":-560,"y":-920,"width":1640,"height":3420,"color":"4"},
-		{"id":"9bf800ff2e8816b3","type":"text","text":"![[4.3程序的机器级代码表示]]","x":1200,"y":-2125,"width":571,"height":117}
+		{"id":"050a2f213509629e","type":"text","text":"![[4.1 指令的概念]]","x":-2258,"y":-2125,"width":758,"height":185,"color":"4"},
+		{"id":"68d2eb0b7ef8e217","type":"text","text":"![[4.1.2 指令的基本格式]]","x":-2258,"y":-1860,"width":1378,"height":1940,"color":"4"},
+		{"id":"25f223e7b3432b47","type":"text","text":"![[4.2.1 指令寻址和数据寻址]]","x":-560,"y":-2125,"width":1140,"height":1125,"color":"4"},
+		{"id":"407bdbe054cc0964","type":"text","text":"![[4.1.4 扩展操作码指令格式]]","x":-2258,"y":160,"width":1498,"height":720,"color":"4"},
+		{"id":"6a9d8a1a5707a085","type":"text","text":"![[4.1.5 指令的操作类型]]","x":-2258,"y":1000,"width":1138,"height":600,"color":"4"},
+		{"id":"a5c034af2f5ed308","type":"text","text":"![[4.4.3 CISC和RISC的比较]]","x":-2258,"y":1700,"width":1338,"height":840,"color":"4"},
+		{"id":"40c78f08d2474bec","type":"text","text":"![[4.2.2 常见的数据寻址方式]]","x":-560,"y":-920,"width":1640,"height":3420,"color":"4"},
+		{"id":"9bf800ff2e8816b3","type":"text","text":"![[4.3 程序的机器级代码表示]]","x":1200,"y":-2125,"width":571,"height":117}
 	],
 	"edges":[
 		{"id":"5ec6bcdaf1a25cdf","fromNode":"050a2f213509629e","fromSide":"bottom","toNode":"68d2eb0b7ef8e217","toSide":"top"},

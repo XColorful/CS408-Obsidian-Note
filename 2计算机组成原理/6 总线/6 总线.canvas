@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"26aa3230f402efe1","type":"text","text":"![[6.1总线概述]]","x":-2662,"y":-1039,"width":1102,"height":1519,"color":"4"},
-		{"id":"cdb1f17ff8ab7bb0","type":"text","text":"![[6.1.3系统总线的结构]]","x":-1400,"y":-1039,"width":1020,"height":439,"color":"4"},
-		{"id":"aa4098d40ac75075","type":"text","text":"![[6.2总线事物和定时]]","x":-280,"y":-1039,"width":1560,"height":1599,"color":"4"},
-		{"id":"30f4a092723e8a63","type":"text","text":"![[6.1.4常见的总线标准]]","x":-1400,"y":-500,"width":880,"height":820,"color":"4"},
-		{"id":"8946a3f485fdab20","type":"text","text":"![[6.1.5总线的性能标准]]","x":-1400,"y":400,"width":820,"height":1240,"color":"4"}
+		{"id":"26aa3230f402efe1","type":"text","text":"![[6.1 总线概述]]","x":-2662,"y":-1039,"width":1102,"height":1519,"color":"4"},
+		{"id":"cdb1f17ff8ab7bb0","type":"text","text":"![[6.1.3 系统总线的结构]]","x":-1400,"y":-1039,"width":1020,"height":439,"color":"4"},
+		{"id":"aa4098d40ac75075","type":"text","text":"![[6.2 总线事物和定时]]","x":-280,"y":-1039,"width":1560,"height":1599,"color":"4"},
+		{"id":"30f4a092723e8a63","type":"text","text":"![[6.1.4 常见的总线标准]]","x":-1400,"y":-500,"width":880,"height":820,"color":"4"},
+		{"id":"8946a3f485fdab20","type":"text","text":"![[6.1.5 总线的性能标准]]","x":-1400,"y":400,"width":820,"height":1240,"color":"4"}
 	],
 	"edges":[
 		{"id":"d3342867f207171f","fromNode":"26aa3230f402efe1","fromSide":"right","toNode":"cdb1f17ff8ab7bb0","toSide":"left"},
