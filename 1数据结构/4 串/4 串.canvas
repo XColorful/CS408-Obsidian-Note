@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"801acd7a97c9a0fa","type":"text","text":"![[4.1串的定义和实现]]","x":-1005,"y":-368,"width":685,"height":868,"color":"4"},
-		{"id":"71761eaabca25217","type":"text","text":"![[4.2串的模式匹配]]","x":-140,"y":-368,"width":1760,"height":1508,"color":"4"}
+		{"id":"801acd7a97c9a0fa","type":"text","text":"![[4.1 串的定义和实现]]","x":-1005,"y":-368,"width":685,"height":868,"color":"4"},
+		{"id":"71761eaabca25217","type":"text","text":"![[4.2 串的模式匹配]]","x":-140,"y":-368,"width":1760,"height":1508,"color":"4"}
 	],
 	"edges":[
 		{"id":"7d0a2417d6caa3ae","fromNode":"801acd7a97c9a0fa","fromSide":"right","toNode":"71761eaabca25217","toSide":"left"}

@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"8dead9ba79cdf38f","type":"text","text":"![[6.1图的基本概念]]","x":-1425,"y":-618,"width":1265,"height":2698,"color":"4"},
-		{"id":"22255d6b632d7bb0","type":"text","text":"![[6.2图的存储及基本操作]]","x":-20,"y":-618,"width":1100,"height":1678,"color":"4"},
-		{"id":"9b9c8f5e91a8dc74","type":"text","text":"![[6.3图的遍历]]","x":-20,"y":1160,"width":1420,"height":1020,"color":"4"},
-		{"id":"ac473f590b3512f5","type":"text","text":"![[6.4图的应用]]","x":1480,"y":-618,"width":1320,"height":3858,"color":"4"}
+		{"id":"8dead9ba79cdf38f","type":"text","text":"![[6.1 图的基本概念]]","x":-1425,"y":-618,"width":1265,"height":2698,"color":"4"},
+		{"id":"22255d6b632d7bb0","type":"text","text":"![[6.2 图的存储及基本操作]]","x":-20,"y":-618,"width":1100,"height":1678,"color":"4"},
+		{"id":"9b9c8f5e91a8dc74","type":"text","text":"![[6.3 图的遍历]]","x":-20,"y":1160,"width":1420,"height":1020,"color":"4"},
+		{"id":"ac473f590b3512f5","type":"text","text":"![[6.4 图的应用]]","x":1480,"y":-618,"width":1320,"height":3858,"color":"4"}
 	],
 	"edges":[
 		{"id":"48896fe3dcb3036f","fromNode":"8dead9ba79cdf38f","fromSide":"right","toNode":"22255d6b632d7bb0","toSide":"left"},

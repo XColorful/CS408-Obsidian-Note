@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"2fd1211a15d176b2","type":"text","text":"![[7.0查找的知识框架]]","x":-2220,"y":-940,"width":380,"height":340,"color":"4"},
-		{"id":"83499a0cdfa3d99b","type":"text","text":"![[7.1查找的基本概念]]","x":-2220,"y":-520,"width":640,"height":500,"color":"4"},
-		{"id":"ea71b74d704a0ec0","type":"text","text":"![[7.2顺序查找、折半查找、分块查找]]","x":-1500,"y":-940,"width":1340,"height":3860,"color":"4"},
-		{"id":"161ddc08c2e82124","type":"text","text":"![[7.3树型查找]]","x":-40,"y":-940,"width":1140,"height":4080,"color":"4"},
-		{"id":"36ff538558d59d4b","type":"text","text":"![[7.4.1B树及其基本操作]]","x":1200,"y":-940,"width":1060,"height":540,"color":"4"},
-		{"id":"11f189bc96389740","type":"text","text":"![[7.4.2B+树的基本概念]]","x":1200,"y":-300,"width":1540,"height":920,"color":"4"},
-		{"id":"982f24cb3bf6a692","type":"text","text":"![[7.5散列表]]","x":1200,"y":720,"width":1400,"height":1780,"color":"4"}
+		{"id":"2fd1211a15d176b2","type":"text","text":"![[7.0 查找的知识框架]]","x":-2220,"y":-940,"width":380,"height":340,"color":"4"},
+		{"id":"83499a0cdfa3d99b","type":"text","text":"![[7.1 查找的基本概念]]","x":-2220,"y":-520,"width":640,"height":500,"color":"4"},
+		{"id":"ea71b74d704a0ec0","type":"text","text":"![[7.2 顺序查找、折半查找、分块查找]]","x":-1500,"y":-940,"width":1340,"height":3860,"color":"4"},
+		{"id":"161ddc08c2e82124","type":"text","text":"![[7.3 树型查找]]","x":-40,"y":-940,"width":1140,"height":4080,"color":"4"},
+		{"id":"36ff538558d59d4b","type":"text","text":"![[7.4.1 B树及其基本操作]]","x":1200,"y":-940,"width":1060,"height":540,"color":"4"},
+		{"id":"11f189bc96389740","type":"text","text":"![[7.4.2 B+树的基本概念]]","x":1200,"y":-300,"width":1540,"height":920,"color":"4"},
+		{"id":"982f24cb3bf6a692","type":"text","text":"![[7.5 散列表]]","x":1200,"y":720,"width":1400,"height":1780,"color":"4"}
 	],
 	"edges":[
 		{"id":"21139227386ceae8","fromNode":"2fd1211a15d176b2","fromSide":"bottom","toNode":"83499a0cdfa3d99b","toSide":"top"},

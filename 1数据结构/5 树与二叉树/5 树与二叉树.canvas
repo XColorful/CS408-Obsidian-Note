@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"5604ff278e80f084","type":"text","text":"![[5.1树的基本概念]]","x":-2867,"y":-1632,"width":1367,"height":2552,"color":"4"},
-		{"id":"616135d39f3c7524","type":"text","text":"![[5.2.1二叉树的定义及其主要特性]]","x":-1400,"y":-1632,"width":1200,"height":1592,"color":"4"},
-		{"id":"22cba004eb6ae122","type":"text","text":"![[5.2.2二叉树的存储结构]]","x":-1400,"y":60,"width":1200,"height":644,"color":"4"},
-		{"id":"4a25d90d37215c8d","type":"text","text":"![[5.3二叉树的实现]]","x":-100,"y":-1632,"width":520,"height":312,"color":"4"},
-		{"id":"1cb859d27fe4e502","type":"text","text":"![[5.3.1二叉树的三种遍历方法]]","x":-100,"y":-1246,"width":2500,"height":1226,"color":"4"},
-		{"id":"33a97e6705302f8e","type":"text","text":"![[5.3.2线索二叉树]]","x":-100,"y":60,"width":1200,"height":860,"color":"4"},
-		{"id":"b3c5ae4c1ee00844","type":"text","text":"![[5.5树与二叉树的应用]]","x":2480,"y":-1632,"width":2000,"height":2792,"color":"4"}
+		{"id":"5604ff278e80f084","type":"text","text":"![[5.1 树的基本概念]]","x":-2867,"y":-1632,"width":1367,"height":2552,"color":"4"},
+		{"id":"616135d39f3c7524","type":"text","text":"![[5.2.1 二叉树的定义及其主要特性]]","x":-1400,"y":-1632,"width":1200,"height":1592,"color":"4"},
+		{"id":"22cba004eb6ae122","type":"text","text":"![[5.2.2 二叉树的存储结构]]","x":-1400,"y":60,"width":1200,"height":644,"color":"4"},
+		{"id":"4a25d90d37215c8d","type":"text","text":"![[5.3 二叉树的实现]]","x":-100,"y":-1632,"width":520,"height":312,"color":"4"},
+		{"id":"1cb859d27fe4e502","type":"text","text":"![[5.3.1 二叉树的三种遍历方法]]","x":-100,"y":-1246,"width":2500,"height":1226,"color":"4"},
+		{"id":"33a97e6705302f8e","type":"text","text":"![[5.3.2 线索二叉树]]","x":-100,"y":60,"width":1200,"height":860,"color":"4"},
+		{"id":"b3c5ae4c1ee00844","type":"text","text":"![[5.5 树与二叉树的应用]]","x":2480,"y":-1632,"width":2000,"height":2792,"color":"4"}
 	],
 	"edges":[
 		{"id":"8b7a375da2750901","fromNode":"5604ff278e80f084","fromSide":"right","toNode":"616135d39f3c7524","toSide":"left"},

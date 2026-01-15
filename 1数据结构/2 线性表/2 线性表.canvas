@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"0fe3015031b096e6","type":"text","text":"![[2.1线性表的定义和基本操作]]","x":-1585,"y":-566,"width":825,"height":586,"color":"4"},
-		{"id":"6e9d6c182e45127e","type":"text","text":"![[2.2线性表的顺序表示]]","x":-640,"y":-566,"width":1360,"height":2106,"color":"4"},
-		{"id":"21a559c8a2a605ba","type":"text","text":"![[2.3线性表的链式表示]]","x":800,"y":-566,"width":2040,"height":3926,"color":"4"}
+		{"id":"0fe3015031b096e6","type":"text","text":"![[2.1 线性表的定义和基本操作]]","x":-1585,"y":-566,"width":825,"height":586,"color":"4"},
+		{"id":"6e9d6c182e45127e","type":"text","text":"![[2.2 线性表的顺序表示]]","x":-640,"y":-566,"width":1360,"height":2106,"color":"4"},
+		{"id":"21a559c8a2a605ba","type":"text","text":"![[2.3 线性表的链式表示]]","x":800,"y":-566,"width":2040,"height":3926,"color":"4"}
 	],
 	"edges":[
 		{"id":"6e2b82ce547041b5","fromNode":"0fe3015031b096e6","fromSide":"right","toNode":"6e9d6c182e45127e","toSide":"left"},
