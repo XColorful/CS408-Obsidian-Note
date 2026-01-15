@@ -1,0 +1,3 @@
+- 【<font color="#c0504d">地址映射</font>】主存块如何存放在Cache中，如何将主存地址转换为Cache地址
+- 【<font color="#c0504d">替换策略</font>】Cache满后，使用何种策略对Cache块进行替换或淘汰
+- 【<font color="#c0504d">写入/更新策略</font>】如何既保证主存块和Cache块的数据一致性，又尽量提升效率

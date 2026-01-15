@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"050a2f213509629e","type":"text","text":"![[4.1指令的概念]]","x":-2258,"y":-2125,"width":758,"height":185,"color":"4"},
+		{"id":"68d2eb0b7ef8e217","type":"text","text":"![[4.1.2指令的基本格式]]","x":-2258,"y":-1860,"width":1378,"height":1940,"color":"4"},
+		{"id":"25f223e7b3432b47","type":"text","text":"![[4.2.1指令寻址和数据寻址]]","x":-560,"y":-2125,"width":1140,"height":1125,"color":"4"},
+		{"id":"407bdbe054cc0964","type":"text","text":"![[4.1.4扩展操作码指令格式]]","x":-2258,"y":160,"width":1498,"height":720,"color":"4"},
+		{"id":"6a9d8a1a5707a085","type":"text","text":"![[4.1.5指令的操作类型]]","x":-2258,"y":1000,"width":1138,"height":600,"color":"4"},
+		{"id":"a5c034af2f5ed308","type":"text","text":"![[4.4.3CISC和RISC的比较]]","x":-2258,"y":1700,"width":1338,"height":840,"color":"4"},
+		{"id":"40c78f08d2474bec","type":"text","text":"![[4.2.2常见的数据寻址方式]]","x":-560,"y":-920,"width":1640,"height":3420,"color":"4"},
+		{"id":"9bf800ff2e8816b3","type":"text","text":"![[4.3程序的机器级代码表示]]","x":1200,"y":-2125,"width":571,"height":117}
+	],
+	"edges":[
+		{"id":"5ec6bcdaf1a25cdf","fromNode":"050a2f213509629e","fromSide":"bottom","toNode":"68d2eb0b7ef8e217","toSide":"top"},
+		{"id":"f3b72ec8b7891101","fromNode":"68d2eb0b7ef8e217","fromSide":"bottom","toNode":"407bdbe054cc0964","toSide":"top"},
+		{"id":"81cd567c4115896e","fromNode":"407bdbe054cc0964","fromSide":"bottom","toNode":"6a9d8a1a5707a085","toSide":"top"},
+		{"id":"a0207132ac6210f3","fromNode":"6a9d8a1a5707a085","fromSide":"bottom","toNode":"a5c034af2f5ed308","toSide":"top"},
+		{"id":"315ce23524f5af7a","fromNode":"a5c034af2f5ed308","fromSide":"right","toNode":"25f223e7b3432b47","toSide":"left"},
+		{"id":"a00947989afe8b9e","fromNode":"6a9d8a1a5707a085","fromSide":"right","toNode":"25f223e7b3432b47","toSide":"left"},
+		{"id":"6694a2e04e46cc42","fromNode":"25f223e7b3432b47","fromSide":"bottom","toNode":"40c78f08d2474bec","toSide":"top"},
+		{"id":"d3f8d6fee7b3494c","fromNode":"40c78f08d2474bec","fromSide":"right","toNode":"9bf800ff2e8816b3","toSide":"left"},
+		{"id":"c55e566bc89bd359","fromNode":"9bf800ff2e8816b3","fromSide":"bottom","toNode":"a5c034af2f5ed308","toSide":"right"}
+	]
+}

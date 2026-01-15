@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"30613652085eff5a","type":"text","text":"![[7.1IO系统基本概念]]","x":-1068,"y":-1029,"width":388,"height":129,"color":"4"},
+		{"id":"f464ebdc01e56c83","type":"text","text":"![[7.2IO接口]]","x":-1068,"y":-800,"width":1008,"height":1200,"color":"4"},
+		{"id":"a70a0c736b25c116","type":"text","text":"![[7.2.4IO端口及其编址]]","x":-1068,"y":520,"width":1208,"height":620,"color":"4"},
+		{"id":"0e18c2edeb439935","type":"text","text":"![[7.3IO方式]]","x":280,"y":-1029,"width":1440,"height":5469,"color":"4"}
+	],
+	"edges":[
+		{"id":"7986a2b797a1ac3a","fromNode":"30613652085eff5a","fromSide":"bottom","toNode":"f464ebdc01e56c83","toSide":"top"},
+		{"id":"db5d463c351b4274","fromNode":"f464ebdc01e56c83","fromSide":"bottom","toNode":"a70a0c736b25c116","toSide":"top"},
+		{"id":"83b03d5c25a4d109","fromNode":"a70a0c736b25c116","fromSide":"right","toNode":"0e18c2edeb439935","toSide":"left"}
+	]
+}
