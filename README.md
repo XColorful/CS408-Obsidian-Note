@@ -41,6 +41,26 @@
 
 ## 笔记展示
 
+|[OneNote（原笔记）](https://github.com/ddy-ddy/cs-408/tree/master/1数据结构)|[Obsidian画布](1数据结构/1%20绪论/1%20绪论.canvas)|
+|:-:|:-:|
+|![原笔记数据结构绪论](./README/数据结构-绪论（OneNote）.png)|![移植后数据结构绪论](./README/数据结构-绪论.png)|
+
+|[OneNote界面（原笔记）](https://github.com/ddy-ddy/cs-408/tree/master/3操作系统)|[支持传统线性阅读方式](3操作系统/操作系统.md)|
+|:-:|:-:|
+|![原笔记进程与线程](./README/进程与线程（OneNote）.png)|![Obsidian进程与线程目录](./README/进程与线程.png)|
+
+|[OneNote超链接跳转（原笔记）](https://github.com/ddy-ddy/cs-408/tree/master/3操作系统)|[Obsidian跳转预览](3操作系统/1%20计算机系统概述/1.3%20操作系统的运行环境.md#外中断和内中断)|
+|:-:|:-:|
+|![原笔记外中断和内中断超链接](./README/外中断和内中断（OneNote）.png)|![Obsidian外中断和内中断跳转预览](./README/外中断和内中断.png)|
+
+|[OneNote手动调整代码缩进（原笔记）](https://github.com/ddy-ddy/cs-408/tree/master/1数据结构)|[Obsidian单独代码文件](1数据结构/5%20树与二叉树/5.3.1%20二叉树的三种遍历方法.md)|
+|:-:|:-:|
+|![原笔记二叉树的三种遍历方法](./README/二叉树的三种遍历方法（OneNote）.png)|![Obsidian二叉树的三种遍历方法](./README/二叉树的三种遍历方法.png)|
+
+|[OneNote平面总览（原笔记）](https://github.com/ddy-ddy/cs-408/tree/master/2计算机组成原理)|[Obsidian画布总览](2计算机组成原理/5%20中央处理器/5%20中央处理器.canvas)|
+|:-:|:-:|
+|![原笔记中央处理器总览](./README/中央处理器（OneNote）.png)|![Obsidian中央处理器总览](./README/中央处理器.png)|
+
 ## 在开源中相遇，在实践中改变
 
 资源的有限不是束缚，而是我们在既定历史条件下共同出发的起点。
