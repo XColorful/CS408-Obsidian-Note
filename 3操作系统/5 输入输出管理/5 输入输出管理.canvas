@@ -1,18 +1,18 @@
 {
 	"nodes":[
-		{"id":"55da580ff485a3f3","type":"text","text":"![[5.1IO管理概述]]","x":-4604,"y":-722,"width":484,"height":282,"color":"4"},
-		{"id":"f9e6797f7bb11bc0","type":"text","text":"![[5.1.3IO软件层次结构]]","x":-4604,"y":-380,"width":1384,"height":620,"color":"4"},
-		{"id":"acaa21cdd0a43829","type":"text","text":"![[5.2.2缓冲区管理]]","x":-1560,"y":-722,"width":1300,"height":2162,"color":"4"},
-		{"id":"4cedc2d936e01039","type":"text","text":"![[5.1.4应用程序IO接口分类]]","x":-4604,"y":320,"width":780,"height":260,"color":"4"},
-		{"id":"72f919c64a0447c5","type":"text","text":"![[5.1.1设备的分类]]","x":-4604,"y":680,"width":864,"height":969,"color":"4"},
-		{"id":"a2d33a01f3f0e7a4","type":"text","text":"![[5.1.1设备控制器（IO接口）]]","x":-3120,"y":-722,"width":920,"height":1433,"color":"4"},
-		{"id":"e01b10e6101b1772","type":"text","text":"![[5.1.2设备控制方式（IO控制方式）]]","x":-3120,"y":820,"width":1400,"height":2140,"color":"4"},
-		{"id":"1f1cd034b49b93b6","type":"text","text":"![[5.2.3设备分配]]","x":-80,"y":-722,"width":1240,"height":1842,"color":"4"},
-		{"id":"badb41423b8d83c6","type":"text","text":"![[5.2.4SPOOLing技术（假脱机技术）]]","x":1320,"y":-722,"width":1260,"height":1302,"color":"4"},
-		{"id":"a8fa61ab7e193fef","type":"text","text":"![[5.3.1磁盘的基本概念]]","x":2720,"y":-722,"width":1360,"height":982,"color":"4"},
-		{"id":"4e124fbaed1de7b6","type":"text","text":"![[5.3.2磁盘的管理]]","x":4220,"y":-722,"width":780,"height":491,"color":"4"},
-		{"id":"84b87c22a9b7c1ac","type":"text","text":"![[5.3.4固态硬盘]]","x":4220,"y":-140,"width":860,"height":260,"color":"4"},
-		{"id":"97c1754db7c8145d","type":"text","text":"![[5.3.3磁盘调度算法]]","x":5200,"y":-722,"width":2440,"height":1682,"color":"4"}
+		{"id":"55da580ff485a3f3","type":"text","text":"![[5.1 IO管理概述]]","x":-4604,"y":-722,"width":484,"height":282,"color":"4"},
+		{"id":"f9e6797f7bb11bc0","type":"text","text":"![[5.1.3 IO软件层次结构]]","x":-4604,"y":-380,"width":1384,"height":620,"color":"4"},
+		{"id":"acaa21cdd0a43829","type":"text","text":"![[5.2.2 缓冲区管理]]","x":-1560,"y":-722,"width":1300,"height":2162,"color":"4"},
+		{"id":"4cedc2d936e01039","type":"text","text":"![[5.1.4 应用程序IO接口分类]]","x":-4604,"y":320,"width":780,"height":260,"color":"4"},
+		{"id":"72f919c64a0447c5","type":"text","text":"![[5.1.1 设备的分类]]","x":-4604,"y":680,"width":864,"height":969,"color":"4"},
+		{"id":"a2d33a01f3f0e7a4","type":"text","text":"![[5.1.1 设备控制器（IO接口）]]","x":-3120,"y":-722,"width":920,"height":1433,"color":"4"},
+		{"id":"e01b10e6101b1772","type":"text","text":"![[5.1.2 设备控制方式（IO控制方式）]]","x":-3120,"y":820,"width":1400,"height":2140,"color":"4"},
+		{"id":"1f1cd034b49b93b6","type":"text","text":"![[5.2.3 设备分配]]","x":-80,"y":-722,"width":1240,"height":1842,"color":"4"},
+		{"id":"badb41423b8d83c6","type":"text","text":"![[5.2.4 SPOOLing技术（假脱机技术）]]","x":1320,"y":-722,"width":1260,"height":1302,"color":"4"},
+		{"id":"a8fa61ab7e193fef","type":"text","text":"![[5.3.1 磁盘的基本概念]]","x":2720,"y":-722,"width":1360,"height":982,"color":"4"},
+		{"id":"4e124fbaed1de7b6","type":"text","text":"![[5.3.2 磁盘的管理]]","x":4220,"y":-722,"width":780,"height":491,"color":"4"},
+		{"id":"84b87c22a9b7c1ac","type":"text","text":"![[5.3.4 固态硬盘]]","x":4220,"y":-140,"width":860,"height":260,"color":"4"},
+		{"id":"97c1754db7c8145d","type":"text","text":"![[5.3.3 磁盘调度算法]]","x":5200,"y":-722,"width":2440,"height":1682,"color":"4"}
 	],
 	"edges":[
 		{"id":"1c2c4b276a02fb5b","fromNode":"55da580ff485a3f3","fromSide":"bottom","toNode":"f9e6797f7bb11bc0","toSide":"top"},
